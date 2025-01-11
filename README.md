@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Ada programming related to modifying an array element during iteration. The bug is explained and solved in the provided Ada files.
